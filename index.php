@@ -4,7 +4,7 @@
 </head> 
 <body> 
 <h1>Compardor</h1> 
-<form action="ndex.php" method="POST"> 
+<form action="index.php" method="POST"> 
    Introduzca el primer número:<br>
     <input type="text" name="numero1"><br> 
    Introduzca el segundo número:<br>
